@@ -1,10 +1,10 @@
-# Minha API - Cadastro de Medicamentos
+# HC API - Cadastro de Medicamentos
 
 Este pequeno projeto será entregue para avaliação do curso Engenharia de Sofware - Sprint 1. 
 
-Trata-se de um cadastro simples de medicamentos, que permite a manutenção das informações Nome, Laboratório, Dosagem e Tipo de Receita, através das operações de consulta, alteração, inclusão e exclusão.
+Trata-se de um cadastro simples de medicamentos, que permite a manutenção das informações Nome, Laboratório, Dosagem e Tipo de Receita, através das operações de consulta, inclusão e exclusão.
 
-Foram criados dois repositórios: api e do front-end.
+Foram criados dois repositórios: api e front-end.
 
 As soluções utilizadas foram: Flask, SqlAlchemy, SQLite e a documentação OpenAPI.
 
